@@ -1,0 +1,10 @@
+bin/
+out/
+build/
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+.vscode/
